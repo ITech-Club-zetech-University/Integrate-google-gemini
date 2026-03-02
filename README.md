@@ -1,6 +1,6 @@
-#  Hackathon Prep — Gemini API Chatbot Examples
+#  Integrate-google-gemini — Gemini API Chatbot Examples
 
-Welcome to **Hackathon Prep** — a starter repository to help participants learn how to build simple AI-powered chatbots using **Google's Gemini API** in both **Python** and **JavaScript with a web UI**.
+Welcome to **Integrate-google-gemini** — a starter repository to help participants learn how to build simple AI-powered chatbots using **Google's Gemini API** in both **Python** and **JavaScript with a web UI**.
 
 This repository is designed to be used during hackathons to quickly get students up and running with real AI integration.
 
